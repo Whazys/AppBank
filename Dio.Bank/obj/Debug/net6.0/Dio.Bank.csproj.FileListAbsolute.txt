@@ -1,0 +1,15 @@
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\Dio.Bank.exe
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\Dio.Bank.deps.json
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\Dio.Bank.runtimeconfig.json
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\Dio.Bank.dll
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\ref\Dio.Bank.dll
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\bin\Debug\net6.0\Dio.Bank.pdb
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.AssemblyReference.cache
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.dll
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\ref\Dio.Bank.dll
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.pdb
+C:\Users\RafaelSantosde\Desktop\Dev\AppBank\Dio.Bank\obj\Debug\net6.0\Dio.Bank.genruntimeconfig.cache
